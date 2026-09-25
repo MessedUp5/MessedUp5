@@ -171,21 +171,11 @@ An academic project focused on designing a technology-based solution for improvi
 
 ---
 
-## 🐍 My Contributions
+##  My Contributions
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MessedUp5/MessedUp5/gh-pages/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MessedUp5/MessedUp5/gh-pages/github-contribution-grid-snake.svg">
-  <img
-    alt="github contribution snake animation"
-    src="https://raw.githubusercontent.com/MessedUp5/MessedUp5/gh-pages/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/MessedUp5/MessedUp5/gh-pages/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
 
 </div>
 

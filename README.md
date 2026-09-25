@@ -153,15 +153,22 @@ An academic project focused on designing a technology-based solution for improvi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MessedUp5&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="GitHub Stats"/>
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=MessedUp5&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
+  height="170"
+  alt="GitHub Stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MessedUp5&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Top Languages"/>
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MessedUp5&layout=compact&langs_count=8&theme=dracula&hide_border=false"
+  height="170"
+  alt="Top Languages"
+/>
 
 </div>
-
 ---
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <div align="center">
 
@@ -175,36 +182,20 @@ An academic project focused on designing a technology-based solution for improvi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MessedUp5/MessedUp5/gh-pages/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
+<img src="https://raw.githubusercontent.com/MessedUp5/MessedUp5/gh-pages/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph"/>
 
 </div>
+---
+
+##  Currently Learning
+
+- Business Analysis
+- Java
+- DevOps & CI/CD
+---
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced Business Analysis
-- Software Architecture
-- System Design
-- Data Analysis
-- Agile Product Development
-- Cloud & Modern Web Technologies
-
----
-
-## 🎯 What I'm Working Towards
-
-I'm building my career at the intersection of **business and technology**, with a focus on understanding problems, translating requirements into practical solutions, and working with development teams to deliver useful systems.
-
-```text
-Business Problem
-       ↓
-Requirements Analysis
-       ↓
-Process & System Design
-       ↓
-Development
-       ↓
-Testing & Validation
-       ↓
-Practical Solution
+<div align="center">
+  <img src="./assets/bottom.gif" width="800" alt="Animated footer">
+</div>

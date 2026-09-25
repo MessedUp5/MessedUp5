@@ -22,16 +22,6 @@
 
 I'm an **Information Systems undergraduate at the University of Colombo School of Computing**, interested in building practical technology solutions by connecting **business requirements with software development**.
 
-My experience spans:
-
-- 📋 Requirements Analysis & Engineering
-- 🔄 Business Process Analysis & Mapping
-- 🧩 User Stories & Acceptance Criteria
-- 💻 Software Development
-- 📊 System Analysis & Design
-- 🚀 Agile / Scrum & Sprint Coordination
-- 🤝 Project & Team Coordination
-
 I'm particularly interested in **Business Analysis, Software Engineering, Systems Analysis and Data/Technology roles**.
 
 ---
@@ -92,40 +82,6 @@ I'm particularly interested in **Business Analysis, Software Engineering, System
   <img src="https://img.shields.io/badge/BPMN-E17055?style=for-the-badge" alt="BPMN"/>
   <img src="https://img.shields.io/badge/Agile%2FScrum-61DAFB?style=for-the-badge" alt="Agile"/>
 </p>
-
-### 💻 Programming & Development
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
-</div>
-
-### 🗄️ Databases & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
-</div>
 
 ---
 

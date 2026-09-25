@@ -79,12 +79,12 @@ I'm an **Information Systems undergraduate at the University of Colombo School o
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MessedUp5&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=39D353&icon_color=39D353&text_color=FFFFFF&border_color=30363D"
+    src="https://github-readme-stats.vercel.app/api?username=MessedUp5&show_icons=true&theme=dark"
     height="180"
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MessedUp5&layout=compact&langs_count=10&theme=dark&title_color=39D353&text_color=FFFFFF&border_color=30363D"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MessedUp5&layout=compact&langs_count=10&theme=dark"
     height="180"
     alt="Most Used Languages"
   />

@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/vidurshan-ponmudy">
+  <a href="https://www.linkedin.com/in/vidurshan-ponmudy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vidurshan145@gmail.com">
@@ -22,10 +22,10 @@
 
 ---
 
-##  About Me
+## About Me
 
-I'm an **Information Systems undergraduate at the University of Colombo School of Computing**, passionate about bridging **business requirements and software development** to build practical technology solutions.
-I'm particularly interested in **Business Analysis, Software Engineering, Systems Analysis, and Data & Technology**, with a focus on understanding business problems, translating requirements into effective solutions, and collaborating with development teams to deliver impactful systems.
+I'm an **Information Systems undergraduate at the University of Colombo School of Computing**, interested in **Business Analysis, Software Engineering, Systems Analysis, and Data & Technology**. I enjoy bridging **business requirements with software development** to build practical technology solutions.
+
 ---
 
 <h3 align="center">Things I Code With</h3>
@@ -33,6 +33,7 @@ I'm particularly interested in **Business Analysis, Software Engineering, System
 <div align="center">
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -42,6 +43,7 @@ I'm particularly interested in **Business Analysis, Software Engineering, System
 </p>
 
 ### Frontend & Backend
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -51,6 +53,7 @@ I'm particularly interested in **Business Analysis, Software Engineering, System
 </p>
 
 ### Database & DevOps
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -59,6 +62,7 @@ I'm particularly interested in **Business Analysis, Software Engineering, System
 </p>
 
 ### Collaboration
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -69,6 +73,7 @@ I'm particularly interested in **Business Analysis, Software Engineering, System
 </p>
 
 ### Business Analysis
+
 <p>
   <img src="https://img.shields.io/badge/Requirements_Engineering-2F80ED?style=for-the-badge" alt="Requirements Engineering"/>
   <img src="https://img.shields.io/badge/User_Stories-6C5CE7?style=for-the-badge" alt="User Stories"/>
@@ -82,7 +87,73 @@ I'm particularly interested in **Business Analysis, Software Engineering, System
 
 ---
 
-##  GitHub Statistics
+## Featured Projects
+
+### ⚡ GridX — P2P Energy Trading Platform
+
+A peer-to-peer energy trading platform designed to connect energy prosumers and consumers through a marketplace-based trading model.
+
+**My Role:** Business Analyst | Software Engineer | Project Coordinator
+
+**Focus Areas:**
+- Requirements Engineering
+- User Stories & Acceptance Criteria
+- IoT / Smart Meter Simulation
+- Matching Engine
+- Energy Trading Workflows
+- Agile Sprint Coordination
+- Distributed Team Collaboration
+
+---
+
+### 🚗 AutoNexus — Vehicle Service Management System
+
+A vehicle repair and service management system designed to improve service-centre workflows and work-order management.
+
+**Technologies:** PHP • MySQL/MariaDB • HTML • CSS • JavaScript
+
+**Key Areas:**
+- Appointment Management
+- Work Order Management
+- Mechanic Assignment
+- Service Tracking
+- Supervisor Workflows
+- Business Process Analysis
+- MVC Architecture
+
+---
+
+### 🚕 Ride-Hailing Platform
+
+A portfolio ride-hailing application inspired by modern mobility platforms.
+
+**Technologies:** React • Node.js • MySQL • Socket.IO • Leaflet
+
+**Key Features:**
+- JWT Authentication
+- Ride Request Workflow
+- Driver Availability
+- Real-Time Driver Location
+- WebSocket Communication
+- Map Integration
+- Haversine Distance Calculation
+
+---
+
+### 🏛️ SmartGov — E-Government System
+
+An academic project focused on designing a technology-based solution for improving government service processes.
+
+**Focus Areas:**
+- Requirements Analysis
+- System Analysis & Design
+- Process Modelling
+- Functional Requirements
+- User-Centred System Design
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
@@ -99,30 +170,39 @@ I'm particularly interested in **Business Analysis, Software Engineering, System
 />
 
 </div>
+
 ---
 
-##  Contribution Streak
+## Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MessedUp5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com?user=MessedUp5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
+  alt="GitHub Streak"
+/>
 
 </div>
 
 ---
 
-##  My Contributions
+## My Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MessedUp5/MessedUp5/gh-pages/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph"/>
+<img
+  src="https://raw.githubusercontent.com/MessedUp5/MessedUp5/gh-pages/pacman-contribution-graph-dark.svg"
+  alt="Pac-Man contribution graph"
+/>
 
 </div>
+
 ---
 
-##  Currently Learning
+## Currently Learning
 
 - Business Analysis
 - Java
 - DevOps & CI/CD
+
 ---

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/github-banner.gif" width="600" alt="Animated GitHub banner">
+  <img src="./assets/github-banner.gif" width="400" alt="Animated GitHub banner">
 </div>
 
 <h1 align="center">Hey 👋 I'm Vidurshan Ponmudy</h1>
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm an **Information Systems undergraduate at the University of Colombo School of Computing**, interested in **Business Analysis, Software Engineering, Systems Analysis, and Data & Technology**. I enjoy bridging **business requirements with software development** to build practical technology solutions.
+I'm an **Information Systems undergraduate at the University of Colombo School of Computing**, interested in **Business Analysis, Software Engineering, Systems Analysis, and Data & Technology**. I enjoy bridging business requirements with software development to build practical technology solutions.
 
 ---
 
@@ -75,7 +75,7 @@ I'm an **Information Systems undergraduate at the University of Colombo School o
 
 ---
 
-## Statistics
+## Stats
 
 <p align="center">
   <img

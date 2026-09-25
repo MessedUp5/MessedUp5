@@ -4,6 +4,9 @@
   src="https://raw.githubusercontent.com/MessedUp5/MessedUp5/gh-pages/pacman-contribution-graph-dark.svg"
   alt="Pac-Man contribution graph"
 />
+  <a href="https://messedup5.github.io/pacman/">
+    <img src="https://img.shields.io/badge/%20Play%20Pac--Man-000000?style=for-the-badge" alt="Play Pac-Man">
+  </a>
 
 </div>
 

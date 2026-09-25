@@ -9,13 +9,13 @@
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/vidurshan-ponmudy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:vidurshan145@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/MessedUp5">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -25,7 +25,6 @@
 ##  About Me
 
 I'm an **Information Systems undergraduate at the University of Colombo School of Computing**, interested in building practical technology solutions by connecting **business requirements with software development**.
-
 I'm particularly interested in **Business Analysis, Software Engineering, Systems Analysis and Data/Technology roles**.
 
 ---
@@ -36,8 +35,8 @@ I'm particularly interested in **Business Analysis, Software Engineering, System
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -154,9 +153,9 @@ An academic project focused on designing a technology-based solution for improvi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MessedUp5&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MessedUp5&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Top Languages"/>
 
 </div>
 
@@ -166,7 +165,7 @@ An academic project focused on designing a technology-based solution for improvi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=MessedUp5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak"/>
 
 </div>
 
@@ -179,13 +178,13 @@ An academic project focused on designing a technology-based solution for improvi
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/MessedUp5/MessedUp5/output/github-contribution-grid-snake-dark.svg">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    srcset="https://raw.githubusercontent.com/MessedUp5/MessedUp5/output/github-contribution-grid-snake.svg">
   <img
     alt="github contribution snake animation"
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    src="https://raw.githubusercontent.com/MessedUp5/MessedUp5/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>

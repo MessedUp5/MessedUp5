@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./github-banner.gif" width="800" alt="Animated GitHub banner">
+</div>
+
 <h1 align="center">Hey 👋 I'm Vidurshan Ponmudy</h1>
 
 <h3 align="center">
@@ -18,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm an **Information Systems undergraduate at the University of Colombo School of Computing**, interested in building practical technology solutions by connecting **business requirements with software development**.
 

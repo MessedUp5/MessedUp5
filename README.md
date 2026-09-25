@@ -8,18 +8,6 @@
   Information Systems Undergraduate | Business Analyst | Software Engineer
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vidurshan-ponmudy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vidurshan145@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/MessedUp5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
 ---
 
 ## About Me
@@ -87,72 +75,6 @@ I'm an **Information Systems undergraduate at the University of Colombo School o
 
 ---
 
-## Featured Projects
-
-### ⚡ GridX — P2P Energy Trading Platform
-
-A peer-to-peer energy trading platform designed to connect energy prosumers and consumers through a marketplace-based trading model.
-
-**My Role:** Business Analyst | Software Engineer | Project Coordinator
-
-**Focus Areas:**
-- Requirements Engineering
-- User Stories & Acceptance Criteria
-- IoT / Smart Meter Simulation
-- Matching Engine
-- Energy Trading Workflows
-- Agile Sprint Coordination
-- Distributed Team Collaboration
-
----
-
-### 🚗 AutoNexus — Vehicle Service Management System
-
-A vehicle repair and service management system designed to improve service-centre workflows and work-order management.
-
-**Technologies:** PHP • MySQL/MariaDB • HTML • CSS • JavaScript
-
-**Key Areas:**
-- Appointment Management
-- Work Order Management
-- Mechanic Assignment
-- Service Tracking
-- Supervisor Workflows
-- Business Process Analysis
-- MVC Architecture
-
----
-
-### 🚕 Ride-Hailing Platform
-
-A portfolio ride-hailing application inspired by modern mobility platforms.
-
-**Technologies:** React • Node.js • MySQL • Socket.IO • Leaflet
-
-**Key Features:**
-- JWT Authentication
-- Ride Request Workflow
-- Driver Availability
-- Real-Time Driver Location
-- WebSocket Communication
-- Map Integration
-- Haversine Distance Calculation
-
----
-
-### 🏛️ SmartGov — E-Government System
-
-An academic project focused on designing a technology-based solution for improving government service processes.
-
-**Focus Areas:**
-- Requirements Analysis
-- System Analysis & Design
-- Process Modelling
-- Functional Requirements
-- User-Centred System Design
-
----
-
 ## GitHub Statistics
 
 <div align="center">
@@ -166,20 +88,7 @@ An academic project focused on designing a technology-based solution for improvi
 <img
   src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MessedUp5&layout=compact&langs_count=8&theme=dracula&hide_border=false"
   height="170"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
-## Contribution Streak
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=MessedUp5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
-  alt="GitHub Streak"
+  alt="Most Used Languages"
 />
 
 </div>
@@ -206,3 +115,17 @@ An academic project focused on designing a technology-based solution for improvi
 - DevOps & CI/CD
 
 ---
+
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vidurshan-ponmudy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vidurshan145@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/MessedUp5">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>

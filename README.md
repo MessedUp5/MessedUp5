@@ -83,11 +83,12 @@ I'm an **Information Systems undergraduate at the University of Colombo School o
     height="180"
     alt="GitHub Statistics"
   />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MessedUp5&layout=compact&langs_count=10&theme=dark&title_color=39D353&text_color=FFFFFF&border_color=30363D"
-    height="180"
-    alt="Most Used Languages"
-  />
+<img
+  align="center"
+  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MessedUp5&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"
+  height="180"
+  alt="Most Used Languages"
+/>
 </p>
 
 ---

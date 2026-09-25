@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./github-banner.gif" width="800" alt="Animated GitHub banner">
+  <img src="./assets/github-banner.gif" width="800" alt="Animated GitHub banner">
 </div>
 
 <h1 align="center">Hey 👋 I'm Vidurshan Ponmudy</h1>
@@ -83,7 +83,7 @@ I'm particularly interested in **Business Analysis, Software Engineering, System
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### ⚡ GridX — P2P Energy Trading Platform
 
@@ -102,7 +102,7 @@ A peer-to-peer energy trading platform designed to connect energy prosumers and 
 
 ---
 
-### 🚗 AutoNexus — Vehicle Service Management System
+###  AutoNexus — Vehicle Service Management System
 
 A vehicle repair and service management system designed to improve service-centre workflows and work-order management.
 
@@ -119,7 +119,7 @@ A vehicle repair and service management system designed to improve service-centr
 
 ---
 
-### 🚕 Ride-Hailing Platform
+###  Ride-Hailing Platform
 
 A portfolio ride-hailing application inspired by modern mobility platforms.
 
@@ -136,7 +136,7 @@ A portfolio ride-hailing application inspired by modern mobility platforms.
 
 ---
 
-### 🏛️ SmartGov — E-Government System
+###  SmartGov — E-Government System
 
 An academic project focused on designing a technology-based solution for improving government service processes.
 
@@ -149,7 +149,7 @@ An academic project focused on designing a technology-based solution for improvi
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -193,9 +193,3 @@ An academic project focused on designing a technology-based solution for improvi
 - Java
 - DevOps & CI/CD
 ---
-
----
-
-<div align="center">
-  <img src="./assets/bottom.gif" width="800" alt="Animated footer">
-</div>

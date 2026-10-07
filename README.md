@@ -65,11 +65,14 @@ I'm an Information Systems undergraduate at the University of Colombo School of 
   <strong>Socials</strong>
 </p>
 
-<p>
+<p align="center">
+  <a href="https://messedup5.github.io/vidurshan-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/vidurshan-ponmudy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:vidurshan145@gmail.com">
+  <a href="mailto:vidrushan145@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>

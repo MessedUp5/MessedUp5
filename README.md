@@ -65,7 +65,7 @@ I'm an Information Systems undergraduate at the University of Colombo School of 
   <strong>Socials</strong>
 </p>
 
-<p align="center">
+<p>
   <a href="https://messedup5.github.io/vidurshan-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
